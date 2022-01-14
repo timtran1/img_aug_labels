@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Swimming pools pics- Satellite view</folder>
+	<filename>3.PNG</filename>
+	<path>D:\Projets\ITC - Data Program\DeepInnovation\Pool Sat Recognition\Swimming pools pics- Satellite view\3.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>451</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poolww</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>206</ymin>
+			<xmax>336</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
